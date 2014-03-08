@@ -1,0 +1,1 @@
+Anyone in the group is welcome to update this file to practice using Git/Github.
